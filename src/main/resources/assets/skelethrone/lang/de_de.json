@@ -6,6 +6,8 @@
   "block.skelethrone.pink_garnet_block": "Rosaner Granatblock",
   "block.skelethrone.raw_pink_garnet_block": "Roher Rosaner Granatblock",
   "block.skelethrone.fossil_rock_block": "Fossilblock",
+  "block.skelethrone.pink_garnet_ore": "Rosagranaterz",
+  "block.skelethrone.pink_garnet_deepslate_ore": "Tiefenschiefer Rosagranaterz",
 
   "itemgroup.skelethrone.skelethrone_items_group": "Skeletron Items",
   "itemgroup.skelethrone.skelethrone_blocks_group": "Skeletron Blöcke"
