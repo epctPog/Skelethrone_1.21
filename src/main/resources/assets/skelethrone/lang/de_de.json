@@ -1,0 +1,12 @@
+{
+  "item.skelethrone.pink_garnet": "Rosaner Granat",
+  "item.skelethrone.raw_pink_garnet": "Roher Rosaner Granat",
+  "item.skelethrone.raw_fossil": "Verstaubtes Fossil",
+
+  "block.skelethrone.pink_garnet_block": "Rosaner Granatblock",
+  "block.skelethrone.raw_pink_garnet_block": "Roher Rosaner Granatblock",
+  "block.skelethrone.fossil_rock_block": "Fossilblock",
+
+  "itemgroup.skelethrone.skelethrone_items_group": "Skeletron Items",
+  "itemgroup.skelethrone.skelethrone_blocks_group": "Skeletron Blöcke"
+}

@@ -1,0 +1,12 @@
+{
+  "item.skelethrone.pink_garnet": "Pink Garnet",
+  "item.skelethrone.raw_pink_garnet": "Raw Pink Garnet",
+  "item.skelethrone.raw_fossil": "Raw Fossil",
+
+  "block.skelethrone.pink_garnet_block": "Pink Garnet Block",
+  "block.skelethrone.raw_pink_garnet_block": "Raw Pink Garnet Block",
+  "block.skelethrone.fossil_rock_block": "Fossil Block",
+
+  "itemgroup.skelethrone.skelethrone_items_group": "Skelethrone Items",
+  "itemgroup.skelethrone.skelethrone_blocks_group": "Skelethrone Blocks"
+}
