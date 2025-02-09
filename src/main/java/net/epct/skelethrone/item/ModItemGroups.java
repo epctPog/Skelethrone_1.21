@@ -18,6 +18,10 @@ public class ModItemGroups {
                     .displayName(Text.translatable("itemgroup.skelethrone.skelethrone_items_group"))
                     .entries((displayContext, entries) -> {
                         entries.add(ModItems.RAW_FOSSIL);
+                        entries.add(ModItems.CHISEL);
+                        entries.add(ModItems.IRON_CHISEL);
+                        entries.add(ModItems.GOLD_CHISEL);
+                        entries.add(ModItems.DIAMOND_CHISEL);
                     }).build());
 
     public static final ItemGroup SKELETHRONE_BLOCKS_GROUP = Registry.register(Registries.ITEM_GROUP,
